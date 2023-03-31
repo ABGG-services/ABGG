@@ -1,3 +1,5 @@
-## A New Post
+## How to find us
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+### Payneham
+
+Finding us at Payneham can sometimes be a bit tricky, [but no more with our guide!](https://dislexsick.github.io/ABGG/HowToFindUs-Payneham/)
