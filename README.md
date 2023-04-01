@@ -13,7 +13,7 @@ Welcome, these are some pages to help the ABGG community find, and attend our ev
 
 ### Payneham
 
-Finding us at Payneham can sometimes be a bit tricky, [but no more with our guide!](./guides/location-payneham)
+Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events](./guides/location-payneham)
 
 
 ## Submit feedback
