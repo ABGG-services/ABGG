@@ -19,7 +19,7 @@ We'll also usually see the first games/the first hour of the event being played 
 
 **3. There are (previously) unwritten things to do for courtesy...** 
 
-...But we have made the bold move of writing them down! 😁 -  Our ['guide to being a courteous gamer'](./courtesy) is essential reading for everyone.
+...But we have made the bold move of writing them down! 😁 -  Our ['guide to being a courteous gamer'](courtesy.md) is essential reading for everyone.
 
 **4. Spectate games while you wait; or if you prefer not to play at the time**
   
