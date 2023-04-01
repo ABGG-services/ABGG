@@ -5,15 +5,15 @@ Welcome, these are some pages to help the ABGG community find, and attend our ev
 
 ## Information resources
 
-- [Find out what to expect if you've never attended before](/guides/firsttime)
+- Find out what to expect if you've never attended before, with the [first-timer guide](./guides/firsttime)
 
-- [Essential reading for all -- the previously unwritten courtesy guide](/guides/courtesy)
+- Essential reading for all -- [the previously unwritten courtesy guide](./guides/courtesy)
 
 ## How to find us
 
 ### Payneham
 
-Finding us at Payneham can sometimes be a bit tricky, [but no more with our guide!](/guides/location-payneham)
+Finding us at Payneham can sometimes be a bit tricky, [but no more with our guide!](./guides/location-payneham)
 
 
 ## Submit feedback
