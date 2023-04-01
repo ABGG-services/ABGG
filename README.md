@@ -21,4 +21,4 @@ Finding us at Payneham can sometimes be a bit tricky, but no more with [our guid
 These pages are living documents, created by ABGG volunteers
 
 - Get in touch any way you know how (Facebook group is the most active) and let us know what you'd like to see here.
-- The pages are hosted via GitHub pages -- if you have the technical know-how then feel free to create a new page, or update one, and submit a pull request with your changes. 
+- The pages are hosted via GitHub pages -- if you have the technical know-how then feel free to create a new page, or update one, and submit a pull request with your changes to [the repo](https://github.com/Dislexsick/ABGG).
