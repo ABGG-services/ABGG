@@ -26,7 +26,8 @@ This door for entry.
 ![Entrance](../HowToFindUs-Payneham/HowToFindUs_files/image006.jpg)
 
 **Not** this door!
-![Entrance](../HowToFindUs-Payneham/HowToFindUs_files/image005.jpg)
+
+![Wrong door!](../HowToFindUs-Payneham/HowToFindUs_files/image005.jpg)
 
 View through entry door of Room One entry.
 
