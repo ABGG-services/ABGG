@@ -20,3 +20,20 @@ This is a living list, it will never truly be completed – if you see something
 - Rules explanations can be hard, go easy on the people that explained the game, it is often stressful to do, plus mistakes and omissions easily happen -- remember the first game doesn't count! :) 
 - Try to avoid interrupting a rules explanation; hold questions to the end, or a break in the rules explanation if possible.  
 - If you know the rules and saw a rule get missed don't interrupt, save it until it seems like they've definitely moved on/missed it, and it's best to pose it as a question e.g. instead of explaining an icon that was missed, ask "Hey, what does this icon mean?"
+
+### There are some things you will need to agree upon with the table - communicate well with other players
+- Is taking back a move okay?  Opinions on this vary.  If you want to, you should ask the rest of the table [^1]
+  - Just remember if someone asks you and you say 'no' then you shouldn't be asking later and expecting different treatment.
+- The tone and use of language at the table should be something everyone is comfortable with
+- If you know you're going to be absent or distracted for any significant period during the game, communicate this ahead of time and ensure others are okay with it.
+  - This could mean any number of things - a phone call expected, needing to leave for a few minutes, a live sports game you also want to watch.
+  - Bio breaks (getting water, using bathroom, simply needing to get up and stretch, etc) are excepted from this, though if you can do so try and wait until just after your turn, and as always communicate to the table.
+  - If you don't think you'll be able to finish the whole game then let the table know before you commit to play, or if it's because the game is running long as soon as you think it might be a concern.
+
+### Some behaviours are not okay at all
+- Discrimination of any kind is not okay at our events.
+- Do not harass, abuse, bully, etc any players.
+- Do not engage in 'Kingmaking', team play, and/or cheating in games which do not have provisions for doing so. 
+
+
+[^1]: Authors note: Personally I play that as long as nothing random/secret happened (like drawing a card), and other players haven't reacted or telegraphed their move, then yes, sure.  It's a judgement call if some of those other things have happened -- though other factors go into this.  If you said you were going to do something, then just forget to until someone else starts their turn, ofc I'll let you.  If it was obviously something you'd do like using a free action to gain a resource on your last turn for the round, another obvious yes.  If something wasn't a choice like taking income and you missed part of it then as far as I'm concerned that's a mandatory part of the game you missed.  *The easy way to decide is that we're here to have fun though, and if you executed your turn slightly wrong and someone wont let you correct it that's not fun.*
