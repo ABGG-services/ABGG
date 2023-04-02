@@ -11,7 +11,7 @@ If you do come in and everyone's already in a game, then please don't hesitate t
 **2. Getting a game to the table**
 The structure of our events are fairly simple -- We provide a space to play in, and invite people to fill it with games, themselves, and good times.
 
-To participate it's a matter of finding a game people to play it with, and getting it to the table!
+To participate it's a matter of finding a game, people to play it with, and getting it to the table!
 
 We encourage people to arrive soon to the starting time to ensure people can settle into games expediently -- arrive too late and you may have to wait a while for other games to finish.
 
