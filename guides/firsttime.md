@@ -1,17 +1,21 @@
+![ABGG Logo](/ABGG_Logo.png)
+
+## First-timer guide
+
 Here's what to expect at ABGG Events - Particularly handy if you're looking to join our event for the first time.
 
 **1. Ideally, let us know you're coming - regulars by using an accurate RSVP, newcomers by posting an intro.**
 
-Many times people can settle into a game and end up concentrating on it; so if you arrive and that's happened it's not uncommon to walk in and everyone's got their heads down -- Some people report this can be confronting, since everyone is in their own bubbles, and seemingly don't want to be disturbed; which is why we encourage new people to post in the community and let us know you're coming along as a first timer so we can keep an eye out for you.
+Many times people can settle into a game and end up concentrating on it; so if you arrive and that's happened it's not uncommon to walk in and everyone's got their heads down -- Some people report this can be confronting, since everyone is in their own bubbles, and seemingly don't want to be disturbed; which is why we encourage new people to post in the community and let us know you're coming along as a first-timer so we can keep more of an eye out for you and ensure you're welcomed.
 
 Let us know what games you're interested in, and it's possible others may be able to bring those games, and/or arrange a game to happen ahead of time.
 
-If you do come in and everyone's already in a game, then please don't hesitate to pick a table, introduce yourself at an opportune moment, and quietly spectate (see #3 below) until a game ends.
+If you do come in and everyone's already in a game, then please don't hesitate to pick a table, introduce yourself (at an opportune moment), and quietly spectate until a game ends and you can join in.
 
 **2. Getting a game to the table**
 The structure of our events are fairly simple -- We provide a space to play in, and invite people to fill it with games, themselves, and good times.
 
-To participate it's a matter of finding a game, people to play it with, and getting it to the table!
+To participate it's a matter of finding a game, plus people to play it with, and getting it to the table!
 
 We encourage people to arrive soon to the starting time to ensure people can settle into games expediently -- arrive too late and you may have to wait a while for other games to finish.
 
