@@ -1,3 +1,5 @@
+![ABGG Logo](/ABGG_Logo.png)
+
 # North Adelaide Community Centre (NACC)
 
 ## Location
@@ -24,3 +26,7 @@ Tea and coffee are available, for a gold coin donation to the centre -- pay in t
 
 If using kitchen facilties please note you are responsible for cleaning up after yourself.
 At NACC there is a dishwasher, for dirty dishes please put them neatly into the dishwasher before you leave (there is no need for attendees to start the dishwasher)
+
+## Venue images
+
+![North Adelaide Community Centre Image](/images/venue-nacc.jpg)
