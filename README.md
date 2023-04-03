@@ -18,19 +18,23 @@ In our community you will find:
 
 ## Discussion
 
-Our Facebook and Discord communities are also a great place to meet, connect with, discuss, and arrange sessions of board games with other local gamers. 
+Our Facebook and Discord communities are also a great place to meet, connect with, discuss, and arrange sessions of board games with other local gamers.
+
 For those seeking a local group to play with (LFG / Looking For Game / Looking For Group) these are a great place to do so.
 
 ## Events 
 
-ABGG is responsible for hosting events, at various locations and times ("ABGG Events" - those organised by our volunteer team)
+ABGG is responsible for hosting events, at various locations and times ("ABGG Events" - those organised by our volunteer team).
+
 We also encourage those in the local community with goals aligned to ours to promote their board games, and occasional wider tabletop events here ("Community Events" - those created by locals and promoted here )
 
 We aspire to keep ABGG events free where possible, or low cost for attendees, and our events are open for all to join us.
-Most games are brought by attendees to create a pool of games to choose from and play.  ABGG also has several games provided by a variety of benefactors which will be present at events.
-Because of this the games brought along to ABGG vary significantly - it really depends on who's bringing them!
-People are also encouraged to post in the community about games they'd like to play (either BYO, or want someone to bring it) - we love to see people arrange getting a game their passionate about to the table
 
+Most games are brought by attendees to create a pool of games to choose from and play.  ABGG also has several games provided by a variety of benefactors which will be present at events.
+
+Because of this the games brought along to ABGG vary significantly - it really depends on who's bringing them!
+
+People are also encouraged to post in the community about games they'd like to play (either BYO, or want someone to bring it) - we love to see people arrange getting a game their passionate about to the table
 
 
 # Information resources
@@ -43,11 +47,11 @@ People are also encouraged to post in the community about games they'd like to p
 
 - Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events](guides/location-payneham.md)
 
----
 
 # Feedback
 
 These pages are living documents, created by ABGG volunteers
 
 - Get in touch any way you know how (Facebook group is the most active) and let us know what you'd like to see here.
+
 - The pages are hosted via GitHub pages -- if you have the technical know-how then feel free to create a new page, or update one, and submit a pull request with your changes to [the repo](https://github.com/Dislexsick/ABGG).
