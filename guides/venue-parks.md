@@ -33,5 +33,5 @@ TBC
 
 ## ABGG Insider Info 😉
 
-Venue colour scheme: `#FF6A00`
+**Venue colour scheme:** `#FF6A00`
 
