@@ -47,19 +47,20 @@ People are also encouraged to post in the community about games they'd like to p
 
 - Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events](guides/location-payneham.md)
 
-# Our Events
+## Our Events
 
 Last updated: April 2023
 
-## Event List
+### Event List
 
 **_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info_**
 
-- Weekly Sessions @ Parks, Mondays 5pm - 10pm @ Parks Library, 46 Trafford Street, Angle Park
-- Weekly Sessions* @ NACC, Tuesdays* 5pm - 10pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide (⚠️ _*NACC Does not run the first Tuesday of each month_)
-- Weekly Sessions @ Payneham, Saturdays 1pm - 10pm @ Payneham Community Centre, 374 Payneham Road, Payneham, 5070
+- Weekly Sessions @ Parks, Mondays 5pm - 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
+- Weekly Sessions* @ NACC, Tuesdays* 5pm - 10pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
+  - ⚠️ _*NACC Does not run the first Tuesday of each month_
+- Weekly Sessions @ Payneham, Saturdays 1pm - 10pm @ Payneham Community Centre, 374 Payneham Road, Payneham ($2.50)
 
-## Calendar
+### Calendar
 
 ![ABGG Calendar for April 2023](/images/ABGG-cal-2023-04.png)
 
