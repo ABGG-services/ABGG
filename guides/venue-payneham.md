@@ -1,6 +1,6 @@
 ![ABGG Logo](/ABGG_Logo.png)
 
-# Payneham Community Centre
+![](/images/venue-stripe-payneham.png)
 
 ## Location
 
