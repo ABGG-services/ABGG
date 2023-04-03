@@ -36,3 +36,7 @@ You will need to wash and dry your dirty dishes, placing them away neatly, befor
 ## Venue images
 
 ![Payneham Community Centre Image](/images/venue-payneham.jpg)
+
+## ABGG Insider Info 😉
+
+**Venue colour scheme:** `#85FF63`
