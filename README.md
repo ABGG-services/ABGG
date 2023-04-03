@@ -41,15 +41,9 @@ People are also encouraged to post in the community about games they'd like to p
 
 - Essential reading for all -- [the previously unwritten courtesy guide](guides/courtesy.md)
 
-## How to find us
+- Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events](guides/location-payneham.md)
 
-### Payneham
-
-Finding us at Payneham can sometimes be a bit tricky, but no more with [our guide to getting to the Payneham events](guides/location-payneham.md)
-
-
-
-
+---
 
 # Feedback
 
