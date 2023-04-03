@@ -30,3 +30,7 @@ At NACC there is a dishwasher, for dirty dishes please put them neatly into the 
 ## Venue images
 
 ![North Adelaide Community Centre Image](/images/venue-nacc.jpg)
+
+## ABGG Insider Info 😉
+
+**Venue colour scheme:** `#68CAFF`
