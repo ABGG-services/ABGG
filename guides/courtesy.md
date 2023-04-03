@@ -37,5 +37,6 @@ This is a living list, it will never truly be completed – if you see something
 - Do not harass, abuse, bully, etc any players.
 - Do not engage in 'Kingmaking', team play, and/or cheating in games which do not have provisions for doing so. 
 
+---
 
 [^1]: Authors note: Personally I play that as long as nothing random/secret happened (like drawing a card), and other players haven't reacted or telegraphed their move, then yes, sure.  It's a judgement call if some of those other things have happened -- though other factors go into this.  If you said you were going to do something, then just forget to until someone else starts their turn, ofc I'll let you.  If it was obviously something you'd do like using a free action to gain a resource on your last turn for the round, another obvious yes.  If something wasn't a choice like taking income and you missed part of it then as far as I'm concerned that's a mandatory part of the game you missed.  *The easy way to decide is that we're here to have fun though, and if you executed your turn slightly wrong and someone wont let you correct it that's not fun.*
