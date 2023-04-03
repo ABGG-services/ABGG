@@ -46,3 +46,11 @@ This will usually be signalled by a collection bag passed around to put your pay
 If you don't see the collection happen, or you miss it, then please be proactive about seeking out an organiser/the collection bag, and paying before leaving.
   
 ABGGs payments are an honour system, and like any other honour system relies on people doing the right thing, otherwise our events could be jeopardised or we stop existing!.
+
+**6. What games will be there?  The community decides -- so bring a game, some game, or, no games as you please.**
+
+ABGG owns a small collection of games, including a highlighted selection of new to market titles to demo.  We try to have these at each event but can't assure that for logistical reasons.
+
+Most of the games on any given night have been brought by attendees.  A lot of people bring a small bag with a couple games, though some bring a duffle bug, a suitcase or a plastic storage tub; and some people bring none -- all are valid.   There is no obligation to bring any games, though we very much appreciate those that do.  
+
+There is usually a very large selection to pick from, but the nature of this also means specific titles cannot be assured to be there.  Our players are smart cookies too, and you'll notice the overall composition of the library can tend to change based on event -- a regular weekday session may lack titles that take a long time to play, but those titles make an appearance at long sessions, especially public holidays.
