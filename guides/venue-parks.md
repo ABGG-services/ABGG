@@ -30,3 +30,8 @@ TBC
 ## Venue images
 
 ![Parks Library Image](/images/venue-parks.jpg)
+
+## ABGG Insider Info 😉
+
+Venue colour scheme: `#FF6A00`
+
