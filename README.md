@@ -4,6 +4,8 @@ Welcome, these are some pages to help the ABGG community find, and attend our ev
 
 # About Us
 
+## Our Group
+
 Adelaide Board Game Group (ABGG) is Adelaide's premier community board gaming group.
 
 Run by a small group of volunteers, our goal is to promote board gaming as a hobby in South Australia, we want to help bring the golden age of board games to more people.
