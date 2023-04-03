@@ -2,7 +2,9 @@
 
 ## Location
 
-**Address:** 374 Payneham Rd, Payneham SA 5070  |  [Google Maps](https://goo.gl/maps/6TJUtFFa4b4f53AN9)
+**Address:** 374 Payneham Rd, Payneham SA 5070
+
+[Google Maps](https://goo.gl/maps/6TJUtFFa4b4f53AN9)
 
 We have [an extra guide](location-payneham.md) for parking at/getting in to the Payneham Community Centre
 
