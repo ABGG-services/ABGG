@@ -4,7 +4,7 @@
 
 ABGG’s events function best when everyone is being courteous to each other – we’re pleased to report that an overwhelming majority of people don’t need to be told or reminded of these things, but to make sure we’re all on the same page these are the behaviours we should aspire to be enacting.
 
-This is a living list, it will never truly be completed – if you see something that is missing then please get in touch!
+_**This is a living list, it will never truly be completed – if you see something that is missing then please [get in touch!](/README.md#feedback)**_
 
 ### Accommodate other people playing games.
 - First, be kind to each other.
