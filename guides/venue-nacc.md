@@ -1,6 +1,6 @@
 ![ABGG Logo](/ABGG_Logo.png)
 
-# North Adelaide Community Centre (NACC)
+![](/images/venue-stripe-nacc.png)
 
 ## Location
 **Address:** 176 Tynte Street, North Adelaide, 5006 
