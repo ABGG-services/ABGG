@@ -70,10 +70,10 @@ Last updated: July 2023 (for August)
 
 **_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info_**
 
-- Weekly Sessions @ Parks, Mondays 5pm - 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
-- Weekly Sessions* @ NACC, Tuesdays* 5pm - 10pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
+- Weekly Sessions @ Parks, Mondays 🕔 5pm - 🕙 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
+- Weekly Sessions* @ NACC, Tuesdays* 🕠 5:30pm - 🕥 10:30pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
   - ⚠️ _*NACC Does not run the first Tuesday of each month_
-- Weekly Sessions @ Payneham, Saturdays 1pm - 10pm @ Payneham Community Centre, 374 Payneham Road, Payneham ($2.50)
+- Weekly Sessions @ Payneham, Saturdays 🕐 1pm - 🕙 10pm @ Payneham Community Centre, 374 Payneham Road, Payneham ($2.50)
 
 ### Calendar
 
