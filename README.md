@@ -2,6 +2,12 @@
 
 Welcome, these are some pages to help the ABGG community find, and attend our events
 
+# Want to get involved?  Join us elsewhere on the Internet
+
+
+* Our [Facebook](https://facebook.com/groups/abgg2013) page is one of our biggest and most active spots to find us, including a live event list
+* A friend of ABBG has also allowed us to cross-post our events to their [Meetup page](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) if that's your preferred events platform.
+
 # About Us
 
 ## Our Group
@@ -49,7 +55,7 @@ People are also encouraged to post in the community about games they'd like to p
 
 ## Our Events
 
-Last updated: April 2023
+Last updated: July 2023 (for August)
 
 ### Event List
 
@@ -62,10 +68,7 @@ Last updated: April 2023
 
 ### Calendar
 
-![ABGG Calendar for April 2023](/images/ABGG-cal-2023-04.png)
-
-# Other places to find us
-* [Facebook](https://facebook.com/groups/abgg2013)
+![ABGG Calendar for April 2023](/images/ABGG-cal-2023-08.png)
 
 
 # Feedback
