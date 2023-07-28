@@ -42,13 +42,13 @@ These pages exist to ensure we have a little piece of the Internet cut out to ca
 
 You can find us in a variety of of other spots
 ## Major Platforms
-These are the main spots we'll post to
-* Our [Facebook](https://facebook.com/groups/abgg2013) page is one of our biggest and most active spots to find us, including a live event list
+These are the main spots we'll post our events to
+* Our [Facebook](https://facebook.com/groups/abgg2013) page is one of our biggest and most active spots to find us, including a live event list with ABGG + community events.
 * A friend of ABBG has also allowed us to cross-post our events to their [Meetup page](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) if that's your preferred events platform.
-* We've got a [Discord Server](https://discord.com/invite/cexhQBX).
 
 ## Minor platforms
 These places are a little quieter than the others, and it's less common to find everything we do posted there.
+* We've got a [Discord Server](https://discord.com/invite/cexhQBX).
 * Those with a taste for online board gaming can find us on [Board Game Arena](https://boardgamearena.com/group?id=3460147)
 * We've got a [guild on BoardGameGeek](https://boardgamegeek.com/guild/331)
 
