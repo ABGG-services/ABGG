@@ -34,7 +34,7 @@ Most games are brought by attendees to create a pool of games to choose from and
 
 Because of this the games brought along to ABGG vary significantly - it really depends on who's bringing them!
 
-People are also encouraged to post in the community about games they'd like to play (either BYO, or want someone to bring it) - we love to see people arrange getting a game their passionate about to the table
+People are also encouraged to post in the community about games they'd like to play (either BYO, or want someone to bring it) - we love to see people arrange getting a game they're passionate about to the table
 
 # Want to get involved?  
 We suggest you join us elsewhere on the Internet (and in person of course!! 😁 )
@@ -64,11 +64,11 @@ These places are a little quieter than the others, and it's less common to find 
 
 ## Our Events
 
-Last updated: July 2023 (for August)
+Last updated: September 2023
 
 ### Event List
 
-**_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info_**
+**_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this!)_**
 
 - Weekly Sessions @ Parks, Mondays 🕔 5pm - 🕙 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
 - Weekly Sessions* @ NACC, Tuesdays* 🕠 5:30pm - 🕥 10:30pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
@@ -77,7 +77,9 @@ Last updated: July 2023 (for August)
 
 ### Calendar
 
-![ABGG Calendar for April 2023](/images/ABGG-cal-2023-08.png)
+![ABGG Calendar for September 2023](/images/ABGG-cal-2023-09.png)
+
+![ABGG Calendar for October 2023](/images/ABGG-cal-2023-10.png)
 
 
 # Feedback
