@@ -77,7 +77,7 @@ Last updated: November 2023
 
 ### Calendar
 
-![ABGG Calendar for November 2023](/images/ABGG-cal-2023-11.png)
+![ABGG Calendar for December 2023](/images/ABGG-cal-2023-12.png)
 
 
 # Feedback
