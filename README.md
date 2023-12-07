@@ -1,14 +1,22 @@
 ![ABGG Logo](ABGG_Logo.png)
 
-Welcome, these are some pages to help the ABGG community find, and attend our events
+# Quick Connect
+Welcome, these are some pages to help the ABGG community find, and attend our events.  
+We mostly organise our events via Facebook, and cross-post event info to Meetup, so we suggest connecting with us on one of those platforms!
+
+| Facebook | Meetup | BoardGameGeek | Discord | Board Game Arena |
+|----------|----------|----------|----------|----------|
+| [![Facebook](/images/logo-fb.png)](https://facebook.com/groups/abgg2013)   | [![Meetup](/images/logo-meetup.png)](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)   | [![Board Game Geek](/images/logo-bgg.svg)](https://boardgamegeek.com/guild/331) | [![Discord](/images/logo-discord.svg)](https://discord.com/invite/cexhQBX)   | [![Board Game Arena](/images/logo-bga.png)](https://boardgamearena.com/group?id=3460147)   |
+| Primary | Secondary |  |  |  |
+
 
 # About Us
 
 ## Our Group
 
-Adelaide Board Game Group (ABGG) is Adelaide's premier community board gaming group.
+Adelaide Board Game Group (ABGG) is a community board gaming group run by a small group of volunteers.
 
-Run by a small group of volunteers, our goal is to promote board gaming as a hobby in South Australia, we want to help bring the golden age of board games to more people.
+Our goal is to promote board gaming as a hobby in South Australia, we want to help bring the golden age of board games to more people.
 
 We host regular board game events, all open to the general public to join us, in a variety of venues around the state, at low, or no cost to attendees; and have a Facebook and Discord community to discuss the hobby.
 
@@ -64,11 +72,11 @@ These places are a little quieter than the others, and it's less common to find 
 
 ## Our Events
 
-Last updated: November 2023
+Last updated: December 2023
 
 ### Event List
 
-**_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this!)_**
+**_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this! _😭😭)__**
 
 - Weekly Sessions @ Parks, Mondays 🕔 5pm - 🕙 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
 - Weekly Sessions* @ NACC, Tuesdays* 🕠 5:30pm - 🕥 10:30pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
@@ -77,7 +85,7 @@ Last updated: November 2023
 
 ### Calendar
 
-![ABGG Calendar for December 2023](/images/ABGG-cal-2023-12.png)
+![ABGG Calendar for December 2023](/images/ABGG-cal-2023-12-v2.png)
 
 
 # Feedback
