@@ -4,10 +4,9 @@
 Welcome, these are some pages to help the ABGG community find, and attend our events.  
 We mostly organise our events via Facebook, and cross-post event info to Meetup, so we suggest connecting with us on one of those platforms!
 
-| Facebook | Meetup | BoardGameGeek | Discord | Board Game Arena |
+| [Facebook](https://facebook.com/groups/abgg2013)  | [Meetup](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)  | [BoardGameGeek](https://boardgamegeek.com/guild/331) | [Discord](https://discord.com/invite/cexhQBX) | [Board Game Arena](https://boardgamearena.com/group?id=3460147) |
 |----------|----------|----------|----------|----------|
 | [![Facebook](/images/logo-fb.png)](https://facebook.com/groups/abgg2013)   | [![Meetup](/images/logo-meetup.png)](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)   | [![Board Game Geek](/images/logo-bgg.svg)](https://boardgamegeek.com/guild/331) | [![Discord](/images/logo-discord.svg)](https://discord.com/invite/cexhQBX)   | [![Board Game Arena](/images/logo-bga.png)](https://boardgamearena.com/group?id=3460147)   |
-| Primary | Secondary |  |  |  |
 
 
 # About Us
