@@ -3,8 +3,7 @@
 # Quick Connect
 Welcome, these are some pages to help the ABGG community find, and attend our events.  
 We mostly organise our events via Facebook, and cross-post event info to Meetup, so we suggest connecting with us on one of those platforms!
-Use the links below to quickly find us across the Internet
-1
+Use the links below to quickly find us across the Internet!
 
 | [Facebook](https://facebook.com/groups/abgg2013)  | [Meetup](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)  | [BoardGameGeek](https://boardgamegeek.com/guild/331) | [Discord](https://discord.com/invite/cexhQBX) | [Board Game Arena](https://boardgamearena.com/group?id=3460147) |
 |----------|----------|----------|----------|----------|
