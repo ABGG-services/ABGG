@@ -72,7 +72,7 @@ These places are a little quieter than the others, and it's less common to find 
 
 ## Our Events
 
-Last updated: December 2023
+Last updated: March 2024
 
 ### Event List
 
@@ -85,7 +85,7 @@ Last updated: December 2023
 
 ### Calendar
 
-![ABGG Calendar for December 2023](/images/ABGG-cal-2023-12-v2.png)
+![ABGG Calendar for March 2024](/images/ABGG-cal-2024-03.png)
 
 
 # Feedback
