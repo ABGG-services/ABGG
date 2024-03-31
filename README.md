@@ -72,7 +72,7 @@ These places are a little quieter than the others, and it's less common to find 
 
 ## Our Events
 
-Last updated: March 2024
+Last updated: April 2024
 
 ### Event List
 
@@ -84,7 +84,7 @@ Last updated: March 2024
 
 ### Calendar
 
-![ABGG Calendar for March 2024](/images/ABGG-cal-2024-03.png)
+![ABGG Calendar for April 2024](/images/ABGG-cal-2024-04.png)
 
 
 # Feedback
