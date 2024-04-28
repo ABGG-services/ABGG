@@ -84,7 +84,7 @@ Last updated: April 2024
 
 ### Calendar
 
-![ABGG Calendar for April 2024](/images/ABGG-cal-2024-04.png)
+![ABGG Calendar for May 2024](/images/ABGG-cal-2024-05.png)
 
 
 # Feedback
