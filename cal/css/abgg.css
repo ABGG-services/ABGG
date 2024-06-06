@@ -1,0 +1,444 @@
+body {
+	background-color:#FAFAFA;
+	font-family: Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	--intensity: 35%;
+	--col-ABGG-brand: #0060b4;
+	--col-ABGG-accent: #0e0e32;
+	--col-NACC-brand: #68CAFF;
+	--col-Parks-brand: #FF6A00;
+	--col-Payneham-brand: #85FF63;
+	--col-ABGG-dark: color-mix(in srgb, var(--col-ABGG-brand), black var(--intensity));
+	--col-ABGG-light: color-mix(in srgb, var(--col-ABGG-brand), white var(--intensity));
+	--col-NACC-dark: color-mix(in srgb, var(--col-NACC-brand), black var(--intensity));
+	--col-NACC-light: color-mix(in srgb, var(--col-NACC-brand), white var(--intensity));
+	--col-Parks-dark: color-mix(in srgb, var(--col-Parks-brand), black var(--intensity));
+	--col-Parks-light: color-mix(in srgb, var(--col-Parks-brand), white var(--intensity));
+	--col-Payneham-dark: color-mix(in srgb, var(--col-Payneham-brand), black var(--intensity));
+	--col-Payneham-light: color-mix(in srgb, var(--col-Payneham-brand), white var(--intensity));
+}
+
+h1, h2, h3 {
+	margin: 0px 1px;
+}
+
+h1 {
+	font-size: 1.8em;
+}
+h2 {
+	font-size: 1.2em;
+}
+h3 {
+	font-size: 0.8em;
+}
+
+.container {
+	display: flex;
+	height: 100vh;
+}
+.column1 {
+	display: flex;
+	flex-direction: column;
+	flex: 1 1 auto;
+	
+}
+.box-header {
+	display: flex;
+	height: auto;
+	color: white;
+	background: var(--col-ABGG-accent);
+	max-height: 150px;
+}
+.box-announcements {
+}
+
+.calendar > div:first-child {
+	flex: 1 1 auto;
+	border: 2px solid #ccc;
+	border-bottom: none;
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+}
+.calendar > div:not(:first-child) {
+	flex: 1 1 auto;
+	border: 2px solid #ccc;
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	grid-template-rows: repeat(6, 1fr);
+}
+
+.calendar > div:first-child > div {
+	font-size: 20px;
+	text-align: center;
+	background: #aaa;
+	border-left: 2px solid #ccc;
+	border-right: 2px solid #ccc;
+}
+.calendar > div:not(:first-child)  > div {
+	border: 2px solid #ccc;
+	display: flex;
+	flex-direction: column;
+	min-height: 9vh;
+}
+.calendar-event {
+	flex: 1 1 auto;
+	border-radius: 6px;
+	margin: 2px;
+	padding: 1px; 
+	z-index: 0;
+}
+.column2 {
+	display: flex;
+	flex-direction: column;
+	min-width:40vw;
+}
+.agenda-container {
+	display: grid;
+	grid-template-columns: 1fr;
+	margin:0px 2px;
+	height: 100%;
+}
+.agenda-management-group {
+	border: 2px solid #333;
+	border-radius: 5px;
+	margin: 2px;
+	background: #ccc;
+}
+
+.agenda-event-header{
+	display: flex;
+	flex: 1 1 auto;
+	margin: auto;
+	font-size: 18px;
+}
+
+.agenda-event-header > div {
+	margin: auto 0px;
+}
+.agenda-event-header > div:not(.mdi) {
+	padding: 3px;
+}
+
+.box-extrainfo {
+	flex: 1 1 auto;
+	border: 2px solid #ccc;
+	border-radius: 3px;
+}
+
+.eventicon {
+	font-size: xx-large;
+}
+
+.special-event{
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+.headercontents {
+	display: flex;
+	align-items: center;
+	margin: auto;
+	text-align: center;
+    font-size: 5vw;
+    margin: auto;
+    max-height: 100%;
+	font-weight: bolder;
+}
+
+.logo {
+	flex: 0 1;
+	max-width:100%;
+	max-height:150px;
+	padding: 5px;
+}
+
+
+.cal-body > div > div:first-child {
+	padding: 3px;
+	border-bottom: 1px dotted #999;
+	font-size: 1.2em;
+	text-align: left;
+	font-weight: bold;
+}
+.active-month-header {
+	background: #ddd;
+}
+.active-month-body {
+	background:#eee;
+	height: 100%;
+}
+.inactive-month-header {
+	color: #aaa;
+	background: #ddd;
+}
+.inactive-month-body {
+	background: #d9d9d9;
+	height: 100%;
+}
+
+
+.agenda-event {
+	flex: 1 1 auto;
+	border-radius: 6px;
+	margin: 2px;
+	padding: 1px;
+	display: flex;
+	flex-direction: column;
+	z-index: 0;
+}
+.agenda-event-grid-2col {
+	display: grid;
+	grid-template-columns: auto 1fr auto 1fr;
+}
+.agenda-event-grid-1col {
+	display: grid;
+	grid-template-columns: auto 1fr;
+}
+
+div[class*="agenda-event-grid-"] > div:nth-child(odd) {
+	margin: auto;
+	padding: 0px 2px;
+	text-align: right;
+	font-size: 16pt;
+}
+
+div[class*="agenda-event-grid-"] > div:nth-child(even) {
+	margin: auto 0px;
+	text-align: left;
+}
+.calendar-event {
+	display: flex;
+	flex-direction: row;
+}
+.calendar-event >  div:first-child {
+	padding: 1px;
+	margin: auto 0px;
+	text-align: right;
+	font-size: 1.5em;
+	flex: 0 1 auto;
+}
+
+.calendar-event >  div:nth-child(even) {
+	margin: 1px 1px;
+	text-align: left;
+}
+
+.agenda-management-group {
+	padding: 1px;
+}
+
+.agenda-management-group > div {
+	padding: 0px 1px;
+}
+.event-core-info{
+	font-size:0.7em;
+}
+.effects-calendar-star {
+	color: yellow;
+	text-shadow: 0 0 5px #000;
+}
+
+.effects-calendar-plus {
+	color: yellow;
+	text-shadow: 0 0 5px #000;
+}
+
+h1 {
+  display: flex;
+  flex-direction: row;
+}
+h1:before, h1:after{
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: auto;
+}
+h1:before {
+  margin-right: 10px
+}
+h1:after {
+  margin-left: 10px
+}
+
+h2 {
+  display: flex;
+  flex-direction: row;
+}
+h2:before, h2:after{
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: auto;
+}
+h2:before {
+  margin-right: 10px
+}
+h2:after {
+  margin-left: 10px
+}
+
+h3 {
+  display: flex;
+  flex-direction: row;
+}
+h3:before, h3:after{
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: auto;
+}
+h3:before {
+  margin-right: 10px
+}
+h3:after {
+  margin-left: 10px
+}
+.eventtitle{
+	font-weight: bold;
+}
+
+div.venue-parks {
+	background-color: var(--col-Parks-brand);
+	border: 2px solid var(--col-Parks-dark);
+}
+div.venue-nacc {
+	background-color: var(--col-NACC-brand);
+	border: 2px solid var(--col-NACC-dark);
+}
+div.venue-payneham {
+	background-color: var(--col-Payneham-brand);
+	border: 2px solid var(--col-Payneham-dark);
+}
+div.venue-tld {
+	background-color: #eee;
+	border: 2px solid #c64f2f;
+}
+div.venue-sanchurro {
+	background-color: rgb(245, 126, 41);
+	border: 2px solid rgb(128, 40, 01);
+	
+}
+div.managedby-ABGG {
+	
+}
+
+.managedby-ABGG.venue-unknown {
+	background-color: var(--col-ABGG-brand);
+	border: 2px solid var(--col-ABGG-accent);
+	color: #fff;
+}
+div.managedby-GAMES{
+	border: 2px solid #122235;
+	background-color: #f9f4de;
+}
+
+div.managedby-TLD {
+	border: 2px solid #000;
+	background-color: white;
+}
+div.managedby-AVCON {
+	background-color: #27add8;
+	border: 2px solid #151239;
+	color: #e6e7e8;
+}
+
+
+div.venue-nacc.IsSpecial {
+	color: white;
+}
+
+div.venue-nacc.IsExtra {
+	color: white;
+}
+
+.IsExtra, .IsSpecial {
+	text-shadow: 0 0 5px #000;
+}
+
+.venue-unknown {
+	background-color: rgb(222, 222, 222)
+}
+
+.IsCommunity {
+	border: 2px solid black;
+}
+div.managedby-ABGG {
+	
+	
+}
+
+div.managedby-AM {
+	color: white;
+	border: 2px solid #9359FB;
+	background-color: #162F43;
+}
+
+.calendar-event.logo-image {
+	--height: 20px;
+}
+
+.agenda-event.logo-image {
+	--height: 100px;
+}
+
+
+.logo-image {
+	position: relative;
+}
+.logo-image:after {
+	content: '';
+	display: block;
+	position: absolute;
+	left: 0px;
+	#filter: grayscale(100%);
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+    background-size: contain;
+    height: var(--height);
+    width: 100%;
+	z-index: -1;
+	top: calc((100% - var(--height)) / 2);
+}
+.logo-image-ABGG:after {
+    background-image: url(../img/coolppl/ABGG.png);
+}
+.logo-image-AVCon:after {
+    background-image: url(../img/coolppl/AVCON.png);
+}
+.logo-image-TLD:after {
+    background-image: url(../img/coolppl/TLD.png);
+}
+.logo-image-GAMES:after {
+    background-image: url(../img/coolppl/GAMES.png);
+}
+
+.logo-image-SSG:after {
+    background-image: url(../img/coolppl/SSG.png);
+}
+
+div.logo-image-AM:after {
+	filter: none;
+	opacity: 1;
+    background-image: url(../img/coolppl/AM.png);
+}
+
+div.logo-image-SMB:after {
+
+    background-image: url(../img/coolppl/SMB.png);
+}
+
+
+span.mdi::before {
+	display: block;
+}
