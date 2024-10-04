@@ -3,6 +3,7 @@
 ![](/images/venue-stripe-parks.png)
 
 ## Location
+
 **Address:** 46 Trafford St, Angle Park SA 5010
 
 [Google Maps](https://goo.gl/maps/n4isMi2eshww87eLA)
@@ -24,7 +25,7 @@ TBC
 
 **Kitchen usage:**
 
-- If using kitchen facilties please note you are responsible for cleaning up after yourself. 
+- If using kitchen facilties please note you are responsible for cleaning up after yourself.
 - You will need to wash and dry your dirty dishes, placing them away neatly, before leaving.
 
 ## Venue images
@@ -34,4 +35,3 @@ TBC
 ## ABGG Insider Info 😉
 
 **Venue colour scheme:** `#FF6A00`
-

@@ -1,14 +1,14 @@
 ![ABGG Logo](ABGG_Logo.png)
 
 # Quick Connect
+
 Welcome, these are some pages to help the ABGG community find, and attend our events.  
 We mostly organise our events via Facebook, and cross-post event info to Meetup, so we suggest connecting with us on one of those platforms!
 Use the links below to quickly find us across the Internet!
 
-| [Facebook](https://facebook.com/groups/abgg2013)  | [Meetup](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)  | [BoardGameGeek](https://boardgamegeek.com/guild/331) | [Discord](https://discord.com/invite/cexhQBX) | [Board Game Arena](https://boardgamearena.com/group?id=3460147) |
-|----------|----------|----------|----------|----------|
-| [![Facebook](/images/logo-fb.png)](https://facebook.com/groups/abgg2013)   | [![Meetup](/images/logo-meetup.png)](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)   | [![Board Game Geek](/images/logo-bgg.svg)](https://boardgamegeek.com/guild/331) | [![Discord](/images/logo-discord.svg)](https://discord.com/invite/cexhQBX)   | [![Board Game Arena](/images/logo-bga.png)](https://boardgamearena.com/group?id=3460147)   |
-
+| [Facebook](https://facebook.com/groups/abgg2013)                         | [Meetup](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)                             | [BoardGameGeek](https://boardgamegeek.com/guild/331)                            | [Discord](https://discord.com/invite/cexhQBX)                              | [Board Game Arena](https://boardgamearena.com/group?id=3460147)                          |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [![Facebook](/images/logo-fb.png)](https://facebook.com/groups/abgg2013) | [![Meetup](/images/logo-meetup.png)](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) | [![Board Game Geek](/images/logo-bgg.svg)](https://boardgamegeek.com/guild/331) | [![Discord](/images/logo-discord.svg)](https://discord.com/invite/cexhQBX) | [![Board Game Arena](/images/logo-bga.png)](https://boardgamearena.com/group?id=3460147) |
 
 # About Us
 
@@ -20,7 +20,7 @@ Our goal is to promote board gaming as a hobby in South Australia, we want to he
 
 We host regular board game events, all open to the general public to join us, in a variety of venues around the state, at low, or no cost to attendees; and have a Facebook and Discord community to discuss the hobby.
 
-At ABGG we love and play all sorts board games – at our events you can expect to see latest releases; tons of modern board games; as well as older favourites.  We welcome all gamers regardless of age, or experience.
+At ABGG we love and play all sorts board games – at our events you can expect to see latest releases; tons of modern board games; as well as older favourites. We welcome all gamers regardless of age, or experience.
 
 In our community you will find:
 
@@ -30,7 +30,7 @@ Our Facebook and Discord communities are also a great place to meet, connect wit
 
 For those seeking a local group to play with (LFG / Looking For Game / Looking For Group) these are a great place to do so.
 
-## Events 
+## Events
 
 ABGG is responsible for hosting events, at various locations and times ("ABGG Events" - those organised by our volunteer team).
 
@@ -38,27 +38,33 @@ We also encourage those in the local community with goals aligned to ours to pro
 
 We aspire to keep ABGG events free where possible, or low cost for attendees, and our events are open for all to join us.
 
-Most games are brought by attendees to create a pool of games to choose from and play.  ABGG also has several games provided by a variety of benefactors which will be present at events.
+Most games are brought by attendees to create a pool of games to choose from and play. ABGG also has several games provided by a variety of benefactors which will be present at events.
 
 Because of this the games brought along to ABGG vary significantly - it really depends on who's bringing them!
 
 People are also encouraged to post in the community about games they'd like to play (either BYO, or want someone to bring it) - we love to see people arrange getting a game they're passionate about to the table
 
-# Want to get involved?  
+# Want to get involved?
+
 We suggest you join us elsewhere on the Internet (and in person of course!! 😁 )
 These pages exist to ensure we have a little piece of the Internet cut out to call our own, in case the rest all goes to shambles.
 
 You can find us in a variety of of other spots
+
 ## Major Platforms
+
 These are the main spots we'll post our events to
-* Our [Facebook](https://facebook.com/groups/abgg2013) page is one of our biggest and most active spots to find us, including a live event list with ABGG + community events.
-* A friend of ABBG has also allowed us to cross-post our events to their [Meetup page](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) if that's your preferred events platform.
+
+- Our [Facebook](https://facebook.com/groups/abgg2013) page is one of our biggest and most active spots to find us, including a live event list with ABGG + community events.
+- A friend of ABBG has also allowed us to cross-post our events to their [Meetup page](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) if that's your preferred events platform.
 
 ## Minor platforms
+
 These places are a little quieter than the others, and it's less common to find everything we do posted there.
-* We've got a [Discord Server](https://discord.com/invite/cexhQBX).
-* Those with a taste for online board gaming can find us on [Board Game Arena](https://boardgamearena.com/group?id=3460147)
-* We've got a [guild on BoardGameGeek](https://boardgamegeek.com/guild/331)
+
+- We've got a [Discord Server](https://discord.com/invite/cexhQBX).
+- Those with a taste for online board gaming can find us on [Board Game Arena](https://boardgamearena.com/group?id=3460147)
+- We've got a [guild on BoardGameGeek](https://boardgamegeek.com/guild/331)
 
 # Information resources
 
@@ -76,16 +82,15 @@ Last updated: April 2024
 
 ### Event List
 
-**_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this! _😭😭)__**
+***Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this! *😭😭)\_\_**
 
 - Weekly Sessions @ Parks, Mondays 🕔 5pm - 🕙 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
-- Weekly Sessions* @ NACC, Tuesdays 🕠 5:30pm - 🕥 10:30pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
+- Weekly Sessions\* @ NACC, Tuesdays 🕠 5:30pm - 🕥 10:30pm @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
 - Weekly Sessions @ Payneham, Saturdays 🕐 1pm - 🕙 10pm @ Payneham Community Centre, 374 Payneham Road, Payneham ($2.50)
 
 ### Calendar
 
 ![ABGG Calendar for September 2024](/images/ABGG-cal-2024-09.png)
-
 
 # Feedback
 

@@ -32,7 +32,6 @@ TBC
 If using kitchen facilties please note you are responsible for cleaning up after yourself.
 You will need to wash and dry your dirty dishes, placing them away neatly, before leaving.
 
-
 ## Venue images
 
 ![Payneham Community Centre Image](/images/venue-payneham.jpg)

@@ -3,7 +3,8 @@
 ![](/images/venue-stripe-nacc.png)
 
 ## Location
-**Address:** 176 Tynte Street, North Adelaide, 5006 
+
+**Address:** 176 Tynte Street, North Adelaide, 5006
 
 [Google Maps](https://goo.gl/maps/BVxtV4zcFoB5tQgg6)
 
