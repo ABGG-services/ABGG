@@ -76,12 +76,27 @@ Last updated: October 2024
 
 ### Event List
 
-**_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this! _😭😭)__**
+**Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this! 😭😭)**
 
-- ↖️ Northen-West Meetup @ Parks (Free) -- Weekly Sessions on Monday - 🕔 5pm - 🕙 10pm - 🗺️ Parks Library, 46 Trafford Street, Angle Park.
-- 🧭 Central Meetup @ NACC ($2 donation requested) -- Weekly Sessions on Tuesday - 🕠 5:30pm - 🕥 10:30pm - 🗺️ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide.
-- ↗️ North-East Meetup @ Payneham ($2.50) -- Weekly Sessions on Saturday - 🕐 1pm - 🕙 10pm - 🗺️ Payneham Community Centre, 374 Payneham Road, Payneham.
-- ⬇️ Southern Meetup @ Marion (Free) -- Third Saturday of each month - 🕚 11am - 🕕 6pm - 🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt SA 5047.
+#### ↖️ Northen-West Meetup @ Parks (Free)
+📅 Weekly Sessions on Monday
+🕔 5pm - 🕙 10pm 
+🗺️ Parks Library, 46 Trafford Street, Angle Park.
+
+#### 🎯 Central Meetup @ NACC ($2 donation requested)
+📅 Weekly Sessions on Tuesday
+🕠 5:30pm - 🕥 10:30pm
+🗺️ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide.
+
+#### ↗️ North-East Meetup @ Payneham ($2.50)
+📅 Weekly Sessions on Saturday
+🕐 1pm - 🕙 10pm
+🗺️ Payneham Community Centre, 374 Payneham Road, Payneham.
+
+#### ⬇️ Southern Meetup @ Marion (Free)
+📅 Third Saturday of each month
+🕚 11am - 🕕 6pm
+🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt SA 5047.
 
 ### Calendar
 
