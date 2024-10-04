@@ -78,9 +78,10 @@ Last updated: October 2024
 
 **_Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this! _😭😭)__**
 
-- Weekly Sessions @ Parks, Mondays 🕔 5pm - 🕙 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
-- Weekly Sessions* @ NACC, Tuesdays 🕠 5:30pm - 🕥 10:30pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
-- Weekly Sessions @ Payneham, Saturdays 🕐 1pm - 🕙 10pm @ Payneham Community Centre, 374 Payneham Road, Payneham ($2.50)
+- ↖️ Northen-West Meetup -- Weekly Sessions @ Parks, Mondays 🕔 5pm - 🕙 10pm @ Parks Library, 46 Trafford Street, Angle Park (Free)
+- 🧭 Central Meetup -- Weekly Sessions* @ NACC, Tuesdays 🕠 5:30pm - 🕥 10:30pm  @ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide ($2 donation requested)
+- ↗️ North-East Meetup -- Weekly Sessions @ Payneham, Saturdays 🕐 1pm - 🕙 10pm @ Payneham Community Centre, 374 Payneham Road, Payneham ($2.50)
+- ⬇️ Southern Meetup -- Monthly Sessions @ Marion, Third Saturday 🕚 11am - 🕕 6pm @ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt SA 5047 (Free)
 
 ### Calendar
 
