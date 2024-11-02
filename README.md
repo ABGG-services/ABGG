@@ -100,7 +100,7 @@ Last updated: October 2024
 
 ### Calendar
 
-![ABGG Calendar for October 2024](/images/ABGG-cal-2024-10.png)
+![ABGG Calendar for November 2024](/images/ABGG-cal-2024-11-a.png)![ABGG Calendar for November 2024](/images/ABGG-cal-2024-11-b.png)
 
 
 # Feedback
