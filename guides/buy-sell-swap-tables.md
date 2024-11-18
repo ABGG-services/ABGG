@@ -26,7 +26,7 @@ Look after your phone -- Buyers will contact sellers with any questions or to pu
 
 Print the form in advance and fill it in with your details and pricing, then leave this with your games on the day.
 
-PDF: [Buy Sell Trade Table Item List - 2024](https://abgg.au/files/Buy%20Sell%20Trade%20Table%20Item%20List%20-%202024.pdf) (Better for priting and filling with a pen)
+PDF: [Buy Sell Trade Table Item List - 2024](https://abgg.au/files/Buy%20Sell%20Trade%20Table%20Item%20List%20-%202024.pdf) (Better for printing and filling out with a pen)
 
 Word DOCX: [Buy Sell Trade Table Item List - 2024](https://abgg.au/files/Buy%20Sell%20Trade%20Table%20Item%20List%20-%202024.docx) (Better for typing in details)
 
