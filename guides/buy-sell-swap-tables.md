@@ -26,9 +26,9 @@ Look after your phone -- Buyers will contact sellers with any questions or to pu
 
 Print the form in advance and fill it in with your details and pricing, then leave this with your games on the day.
 
-PDF: [https://abgg.au/files/ABGG-2023-12-09-sell-n-swap-table-form.pdf](https://abgg.au/files/ABGG-2023-12-09-sell-n-swap-table-form.pdf)
+PDF: [Buy Sell Trade Table Item List - 2024](https://abgg.au/files/Buy%20Sell%20Trade%20Table%20Item%20List%20-%202024.pdf) (Better for priting and filling with a pen)
 
-Word DOCX: [https://abgg.au/files/ABGG-2023-12-09-sell-n-swap-table-form.docx](https://abgg.au/files/ABGG-2023-12-09-sell-n-swap-table-form.docx)
+Word DOCX: [Buy Sell Trade Table Item List - 2024](https://abgg.au/files/Buy%20Sell%20Trade%20Table%20Item%20List%20-%202024.docx) (Better for typing in details)
 
 * You must remain present at the event while your games occupy a table. (Stepping out briefly is fine - e.g. for a quick bite to eat)
 * Make sure to clearly fill in the form with your name and contact details, so people who know to speak to to buy.
