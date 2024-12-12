@@ -9,6 +9,7 @@ body {
 	--col-NACC-brand: #68CAFF;
 	--col-Parks-brand: #FF6A00;
 	--col-Payneham-brand: #85FF63;
+	--col-Cooinda-brand: #d2afff;
 	--col-ABGG-dark: color-mix(in srgb, var(--col-ABGG-brand), black var(--intensity));
 	--col-ABGG-light: color-mix(in srgb, var(--col-ABGG-brand), white var(--intensity));
 	--col-NACC-dark: color-mix(in srgb, var(--col-NACC-brand), black var(--intensity));
@@ -17,7 +18,12 @@ body {
 	--col-Parks-light: color-mix(in srgb, var(--col-Parks-brand), white var(--intensity));
 	--col-Payneham-dark: color-mix(in srgb, var(--col-Payneham-brand), black var(--intensity));
 	--col-Payneham-light: color-mix(in srgb, var(--col-Payneham-brand), white var(--intensity));
+	--col-Cooinda-dark: color-mix(in srgb, var(--col-Cooinda-brand), black var(--intensity));
+	--col-Cooinda-light: color-mix(in srgb, var(--col-Cooinda-brand), white var(--intensity));
 	--col-SMB-accent: #f32a2a;
+	--agenda-width: 26vw;
+	--col-Concentric-brand: #EB7541;
+	
 }
 
 h1, h2, h3 {
@@ -36,7 +42,7 @@ h3 {
 
 .body-container {
 	display: flex;
-	flex-flow: row wrap;
+	flex-flow: row;
 	/* height: 100vh; */
 }
 .cal-container {
@@ -55,7 +61,7 @@ h3 {
 	display: grid;
 	flex: 1 1 auto;
 	grid-template-columns: repeat(7, 1fr);
-	grid-template-rows: auto repeat(6, 1fr);
+	grid-template-rows: auto repeat(5, 1fr);
 }
 .cal-header {
 	display: contents;
@@ -92,7 +98,7 @@ h3 {
 	display: grid;
 	grid-template-columns: 1fr;
 	margin:0px 2px;
-	/* min-width:40vw; */
+	min-width:var(--agenda-width);
 }
 .agenda-management-group {
 	border: 2px solid #333;
@@ -181,6 +187,7 @@ h3 {
 	display: flex;
 	flex-direction: column;
 	z-index: 0;
+	padding-right: 25px;
 }
 .agenda-event-grid-2col {
 	display: grid;
@@ -310,6 +317,10 @@ div.venue-payneham {
 	background-color: var(--col-Payneham-brand);
 	border: 2px solid var(--col-Payneham-dark);
 }
+div.venue-cooinda {
+	background-color: var(--col-Cooinda-brand);
+	border: 2px solid var(--col-Cooinda-dark);
+}
 div.venue-tld {
 	background-color: #eee;
 	border: 2px solid #c64f2f;
@@ -358,6 +369,10 @@ div.venue-nacc.IsExtra {
 	text-shadow: 0 0 5px #000;
 }
 
+div.IsExtra.venue-cooinda {
+    text-shadow: none;
+}
+
 .venue-unknown {
 	background-color: rgb(222, 222, 222)
 }
@@ -371,6 +386,21 @@ div.managedby-AM {
 	color: white;
 	border: 2px solid #9359FB;
 	background-color: #162F43;
+}
+
+div.managedby-CoU {
+	background-color: #FFF;
+}
+
+div.managedby-Concentric {
+	background-color: var(--col-Concentric-brand);
+}
+
+div.managedby-Concentric.IsExtra {
+	color: white;
+}
+div.managedby-CoU.IsExtra {
+	text-shadow:none;
 }
 
 .cal-event.logo-image {
@@ -423,9 +453,20 @@ div.logo-image-AM:after {
     background-image: url(../img/coolppl/AM.png);
 }
 
+div.logo-image-COU:after {
+	filter: none;
+	opacity: 1;
+    background-image: url(../img/coolppl/COU.png);
+}
+
 div.logo-image-SMB:after {
 
     background-image: url(../img/coolppl/SMB.png);
+}
+
+div.logo-image-Concentric:after {
+
+    background-image: url(../img/coolppl/Concentric.png);
 }
 
 
