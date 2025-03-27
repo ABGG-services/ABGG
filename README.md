@@ -72,36 +72,36 @@ These places are a little quieter than the others, and it's less common to find 
 
 ## Our Events
 
-Last updated: October 2024
+Last updated: March 2025
 
 ### Event List
 
-**Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info (Seriously, Josh frequently forgets to update this! 😭😭)**
+**Check out our [live list of events on Facebook](https://www.facebook.com/groups/abgg2013/events) for the most up-to-date info**
 
 #### ↖️ North-West Meetup @ Parks (Free)  
 &nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Monday  
 &nbsp;&nbsp;&nbsp;🕔 5pm - 🕙 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Parks Library, 46 Trafford Street, Angle Park  
 
-#### 🎯 Central Meetup @ NACC ($2 donation requested)
+#### 🎯 Central Meetup @ NACC (Donation Requested)
 &nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Tuesday  
 &nbsp;&nbsp;&nbsp;🕠 5:30pm - 🕥 10:30pm  
 &nbsp;&nbsp;&nbsp;🗺️ North Adelaide Community Centre (NACC), 176 Tynte Street, North Adelaide  
 
-#### ↗️ North-East Meetup @ Payneham ($2.50)  
+#### ↗️ North-East Meetup @ Payneham (Donation Requested)
 &nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Saturday  
 &nbsp;&nbsp;&nbsp;🕐 1pm - 🕙 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Payneham Community Centre, 374 Payneham Road, Payneham  
 
 #### ⬇️ Southern Meetup @ Marion (Free)  
 &nbsp;&nbsp;&nbsp;📅 Third Saturday of each month  
-&nbsp;&nbsp;&nbsp;🕚 11am - 🕕 6pm  
+&nbsp;&nbsp;&nbsp;🕚 1pm - 🕕 7pm  
 &nbsp;&nbsp;&nbsp;🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt SA 5047
 
-### Calendar
-
-![ABGG Calendar for December 2024](/images/ABGG-cal-2024-12-a.png)![ABGG Calendar for December 2024](/images/ABGG-cal-2024-12-b.png)
-
+#### ⬇️ Online Game Night   
+&nbsp;&nbsp;&nbsp;📅 Fortnightly Thursdays  
+&nbsp;&nbsp;&nbsp;🕚 7pm - 🕕 10pm
+&nbsp;&nbsp;&nbsp;🗺️ Meet on Discord for games using Boardgame Arena. Check our [online night guide](online-games.md) for more details
 
 # Feedback
 
