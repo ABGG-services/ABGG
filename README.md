@@ -96,11 +96,11 @@ Last updated: March 2025
 #### ⬇️ Southern Meetup @ Marion (Free)  
 &nbsp;&nbsp;&nbsp;📅 Third Saturday of each month  
 &nbsp;&nbsp;&nbsp;🕚 1pm - 🕕 7pm  
-&nbsp;&nbsp;&nbsp;🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt SA 5047
+&nbsp;&nbsp;&nbsp;🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt
 
-#### ⬇️ Online Game Night   
+#### 💻 Online Game Night   
 &nbsp;&nbsp;&nbsp;📅 Fortnightly Thursdays  
-&nbsp;&nbsp;&nbsp;🕚 7pm - 🕕 10pm
+&nbsp;&nbsp;&nbsp;🕚 7pm - 🕕 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Meet on Discord for games using Boardgame Arena. Check our [online night guide](online-games.md) for more details
 
 # Feedback
