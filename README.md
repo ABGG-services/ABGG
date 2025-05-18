@@ -76,7 +76,7 @@ Last updated: May 2025
 
 ### Event List
 
-**Check out our [live list of events on Google calender](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide) for the most up-to-date info**
+**Check out our [live list of events on Google calendar](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide) for the most up-to-date info**
 
 #### ↖️ North-West Meetup @ Parks (Free)  
 &nbsp;&nbsp;&nbsp;📅 Weekly Sessions on Monday  
