@@ -9,11 +9,11 @@ Use the links below to quickly find us across the Internet!
 |----------|----------|----------|----------|----------|
 | [![Facebook](/images/logo-fb.png)](https://facebook.com/groups/abgg2013)   | [![Meetup](/images/logo-meetup.png)](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)   | [![Board Game Geek](/images/logo-bgg.svg)](https://boardgamegeek.com/guild/331) | [![Discord](/images/logo-discord.svg)](https://discord.com/invite/cexhQBX)   | [![Board Game Arena](/images/logo-bga.png)](https://boardgamearena.com/group?id=3460147)   |
 
-# Event Calender
+# Event Calendar
 
-We have a Google calender available for all our upcoming events.
+We have a Google calendar available for all our upcoming events.
 
-[Click this link to access the calender.](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide)
+[Click this link to access the calendar.](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide)
 
 
 # About Us
