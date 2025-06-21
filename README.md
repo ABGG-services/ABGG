@@ -42,8 +42,8 @@ For those seeking a local group to play with these are a great place to do so.
 
 You can find us in a variety of of other spots
 
-* A friend of ABBG has also allowed us to cross-post our events to their [Meetup page](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) if that's your preferred events platform.
-* Those with a taste for online board gaming can find us on [Board Game Arena](https://boardgamearena.com/group?id=3460147) and host an [online game night](online-games.md) using Discord.
+* A friend of ABGG has also allowed us to cross-post our events to their [Meetup page](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) if that's your preferred events platform.
+* Those with a taste for online board gaming can find us on [Board Game Arena](https://boardgamearena.com/group?id=3460147). We also host an [online game night](online-games.md) using Discord.
 * We've got a [guild on BoardGameGeek](https://boardgamegeek.com/guild/331)
 
 ## Events 
@@ -72,7 +72,7 @@ People are also encouraged to post in the community about games they'd like to p
 
 ## Our Events
 
-Last updated: May 2025
+Last updated: June 2025
 
 ### Event List
 
