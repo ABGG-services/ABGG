@@ -17,5 +17,3 @@
 ![Photo7](/images/photo7.jpg)
 
 ![Photo8](/images/photo8.jpg)
-
-![Photo9](/images/photo9.jpg)
