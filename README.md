@@ -60,6 +60,10 @@ Because of this the games brought along to ABGG vary significantly - it really d
 
 People are also encouraged to post in the community about games they'd like to play (either BYO, or want someone to bring it) - we love to see people arrange getting a game they're passionate about to the table
 
+# Photo gallery
+
+If you would like to see some photos from our previous events you can [check out our photo gallry here](gallery.md)
+
 # Information resources
 
 ## General
