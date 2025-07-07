@@ -62,7 +62,7 @@ People are also encouraged to post in the community about games they'd like to p
 
 # Photo gallery
 
-If you would like to see some photos from our previous events you can [check out our photo gallry here](gallery.md)
+If you would like to see some photos from our previous events you can [check out our photo gallery here](gallery.md)
 
 # Information resources
 
