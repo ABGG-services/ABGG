@@ -103,7 +103,7 @@ Last updated: June 2025
 &nbsp;&nbsp;&nbsp;🗺️ Cooinda Neighbourhood Centre, 245 Sturt Rd, Sturt
 
 #### 💻 Online Game Night   
-&nbsp;&nbsp;&nbsp;📅 Fortnightly Thursdays  
+&nbsp;&nbsp;&nbsp;📅 Fortnightly Sundays  
 &nbsp;&nbsp;&nbsp;🕚 7pm - 🕕 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Meet on Discord for games using Boardgame Arena. See our [online game night guide](online-games.md) for more details
 
