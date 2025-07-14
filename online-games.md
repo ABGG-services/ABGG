@@ -1,6 +1,6 @@
 ![ABGG Logo](ABGG_Logo.png)
 
-# ABGG Online Game Night - Thursday Fortnightly From 7PM!
+# ABGG Online Game Night - Sundays Fortnightly From 7PM!
 
 Online gaming has expanded in the last few years with a huge number of games available.
 ABGG's online gaming sessions are a great way to connect with others and discover new games that you haven't had the chance to try before!
