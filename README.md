@@ -2,12 +2,12 @@
 
 # Quick Connect
 Welcome, these are some pages to help the ABGG community find, and attend our events.  
-We mostly organise our events via Facebook, and cross-post event info to Meetup and Discord, so we suggest connecting with us on one of those platforms!
+We mostly organise our events via Facebook, and cross-post event info to Discord, so we suggest connecting with us on one of those platforms!
 Use the links below to quickly find us across the Internet!
 
-| [Facebook](https://facebook.com/groups/abgg2013)  | [Meetup](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)  | [BoardGameGeek](https://boardgamegeek.com/guild/331) | [Discord](https://discord.com/invite/cexhQBX) | [Board Game Arena](https://boardgamearena.com/group?id=3460147) |
-|----------|----------|----------|----------|----------|
-| [![Facebook](/images/logo-fb.png)](https://facebook.com/groups/abgg2013)   | [![Meetup](/images/logo-meetup.png)](https://www.meetup.com/en-AU/adelaide-board-games-meetup/)   | [![Board Game Geek](/images/logo-bgg.svg)](https://boardgamegeek.com/guild/331) | [![Discord](/images/logo-discord.svg)](https://discord.com/invite/cexhQBX)   | [![Board Game Arena](/images/logo-bga.png)](https://boardgamearena.com/group?id=3460147)   |
+| [Facebook](https://facebook.com/groups/abgg2013)   | [BoardGameGeek](https://boardgamegeek.com/guild/331) | [Discord](https://discord.com/invite/cexhQBX) | [Board Game Arena](https://boardgamearena.com/group?id=3460147) |
+|----------|----------|----------|----------|
+| [![Facebook](/images/logo-fb.png)](https://facebook.com/groups/abgg2013)    | [![Board Game Geek](/images/logo-bgg.svg)](https://boardgamegeek.com/guild/331) | [![Discord](/images/logo-discord.svg)](https://discord.com/invite/cexhQBX)   | [![Board Game Arena](/images/logo-bga.png)](https://boardgamearena.com/group?id=3460147)   |
 
 # Event Calendar
 
@@ -42,7 +42,6 @@ For those seeking a local group to play with these are a great place to do so.
 
 You can find us in a variety of of other spots
 
-* A friend of ABGG has also allowed us to cross-post our events to their [Meetup page](https://www.meetup.com/en-AU/adelaide-board-games-meetup/) if that's your preferred events platform.
 * Those with a taste for online board gaming can find us on [Board Game Arena](https://boardgamearena.com/group?id=3460147). We also host an [online game night](online-games.md) using Discord.
 * We've got a [guild on BoardGameGeek](https://boardgamegeek.com/guild/331)
 
