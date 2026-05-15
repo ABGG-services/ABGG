@@ -2,12 +2,11 @@
 
 <p align="center"> <a href="http://ABGG.au">Home</a> | <a href="https://abgg.au/events.html">Our events</a> | <a href="https://facebook.com/groups/abgg2013">Facebook</a> | <a href="https://discord.com/invite/cexhQBX">Discord</a> | <a href="https://boardgamearena.com/group?id=3460147">Boardgame Arena</a> | <a href="https://abgg.au/committee.html">Who we are</a> </p>
 
-### These are all of the regular Adelaide Boardgame Group events around Adelaide
+These are all of the regular Adelaide Boardgame Group events around Adelaide.
 
-### We also hold special events during the year and on most public holidays
+We also hold special events during the year and on most public holidays.
 
-### **Click here for our [live list of events on Google calendar](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide) for the most up-to-date information**
-
+**[Click here for our live list of events on Google calendar](https://calendar.google.com/calendar/embed?src=15cd857338d6a885773f1470e2ae5024da12186c9fe732ec0630444955bff6ea%40group.calendar.google.com&ctz=Australia%2FAdelaide) for the most up-to-date information.**
 
 #### ↖️ North-West Meetup @ Parks (Free)  
 &nbsp;&nbsp;&nbsp;📅 Every Monday  
