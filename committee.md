@@ -26,4 +26,4 @@ At ABGG we strive for everyone who attends our groups to feel; welcome and inclu
 
 You can send it to us by email, or give it to a committee member at an event. 
 
-Click here to access the incident reporting form.
+[Click here to access the incident reporting form.](ABGG_Incident_Report_Form.rtf)
