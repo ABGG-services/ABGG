@@ -20,4 +20,10 @@ Need to contact us? [Click here to send us an email](mailto:abgg.services@gmail.
 
 ![Photo1](/images/Tallulah.jpg)
 
+## Reporting an incident or concern to the committee
 
+At ABGG we strive for everyone who attends our groups to feel; welcome and included. If an incident has occurred that has gone against these community values, we ask that you let us know by completing the incident reporting form. 
+
+You can send it to us by email, or give it to a committee member at an event. 
+
+Click here to access the incident reporting form.
