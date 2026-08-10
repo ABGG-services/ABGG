@@ -7,7 +7,7 @@
 
 At ABGG we strive for everyone who attends our groups to feel welcome and included. 
 
-If an incident has occurred that has gone against these community values, we ask that you let us know by completing the incident reporting form. 
+If an incident has occurred that has gone against these community values, we ask that you let us know by completing an incident reporting form. 
 
 [Click here to access the incident reporting form.](ABGG-Incident-Report-Form.rtf?raw=true)
 
