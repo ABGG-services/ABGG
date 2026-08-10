@@ -24,6 +24,6 @@ Need to contact us? [Click here to send us an email](mailto:abgg.services@gmail.
 
 At ABGG we strive for everyone who attends our groups to feel; welcome and included. If an incident has occurred that has gone against these community values, we ask that you let us know by completing the incident reporting form. 
 
-You can send it to us by email, or give it to a committee member at an event. 
+You can [send it to us by email](mailto:abgg.services@gmail.com), or give it to a committee member at an event. 
 
 [Click here to access the incident reporting form.](ABGG_Incident_Report_Form.rtf?raw=true)
