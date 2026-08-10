@@ -6,7 +6,7 @@
 
 Need to contact us? [Click here to send us an email](mailto:abgg.services@gmail.com)
 
-Please click here for information about [reporting an incident or concern to the committee](report.md)
+You can also [follow this link for information about reporting an incident or concern to the committee](report.md)
 
 
 
