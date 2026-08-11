@@ -18,7 +18,7 @@ We also hold special events during the year and on most public holidays.
 &nbsp;&nbsp;&nbsp;🕠 5:30pm - 🕥 10:30pm  
 &nbsp;&nbsp;&nbsp;🗺️ North Adelaide Community Centre, 176 Tynte Street, North Adelaide  
 
-#### ↗️ North-East Meetup @ Payneham (Donation Requested)
+#### ↗️ North-East Meetup @ Payneham ($5 for the full day, $3 for just a few hours or concession)
 &nbsp;&nbsp;&nbsp;📅 Every Saturday  
 &nbsp;&nbsp;&nbsp;🕐 1pm - 🕙 10pm  
 &nbsp;&nbsp;&nbsp;🗺️ Payneham Community Centre, 374 Payneham Road, Payneham  
