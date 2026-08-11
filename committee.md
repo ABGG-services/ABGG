@@ -6,6 +6,10 @@
 
 Need to contact us? [Click here to send us an email](mailto:abgg.services@gmail.com)
 
+You can also [follow this link for information about reporting an incident or concern to the committee](report.md)
+
+
+
 
 
 ![Photo1](/images/Jill.jpg)
@@ -19,5 +23,4 @@ Need to contact us? [Click here to send us an email](mailto:abgg.services@gmail.
 ![Photo1](/images/Kat.jpg)
 
 ![Photo1](/images/Tallulah.jpg)
-
 
