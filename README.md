@@ -63,3 +63,5 @@ These pages are maintained by the ABGG committee, who are volunteers responsible
 [You can see details of the current committee members here.](committee.md)
 
 Please [get in touch](mailto:abgg.services@gmail.com) if you have any questions or would like to provide feedback.
+
+You can also [follow this link for information about reporting an incident or concern to the committee](report.md)
