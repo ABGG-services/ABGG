@@ -4,7 +4,7 @@
 
 **These are the current committee members making everything happen behind the scenes** 
 
-Need to contact us? [Click here to send us an email](mailto:abgg.services@gmail.com)
+Need to contact us? [Click here to send us an email](mailto:services.abgg@gmail.com)
 
 You can also [follow this link for information about reporting an incident or concern to the committee](report.md)
 
