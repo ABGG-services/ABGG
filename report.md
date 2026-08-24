@@ -11,6 +11,6 @@ If an incident has occurred that has gone against these community values, we ask
 
 [Click here to access the incident reporting form.](https://abgg.au/files/ABGG-Incident-Report-Form.rtf?raw=true)
 
-You can [send it to us by email](mailto:abgg.services@gmail.com), or give it to a committee member at an event. 
+You can [send it to us by email](mailto:services.abgg@gmail.com), or give it to a committee member at an event. 
 
 
